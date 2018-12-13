@@ -1,0 +1,13 @@
+{
+    "name": "user/privacy",
+    "authors": [
+        {
+            "name": "Hayk Mikayelyan",
+            "email": "mikahayk@gmail.com"
+        }
+    ],
+    "require": {
+		"twilio/sdk": "*",
+		"php-activerecord/php-activerecord": "*"
+	}
+}
